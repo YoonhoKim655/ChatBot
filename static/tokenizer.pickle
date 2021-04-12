@@ -1,0 +1,13 @@
+€•g      ?keras_preprocessing.text”Œ	Tokenizer”“?”}??word_counts”Œcollections”ŒOrderedDict”“?R??hi”K?hey”K?is”K?anyone”K?there”K?hello”K?hay”K?bye”K?see”K?you”K
+?later”K?goodbye”K?thanks”K?thank”K?that's”K?helpful”K?for”K?the”K?help”K?who”K?are”K?what”K?your”K?name”K?should”K?i”K?call”K?whats”K?could”K?me”K?give”K?a”K
+?hand”K?please”K?can”K?do”K?need”K?support”K?to”K?create”K?new”K?account”K?how”K?open”K?want”K?an”K?have”K?complaint”K?raise”K?about”K?service”Ku?word_docs”h?defaultdict”“”Œbuiltins”Œint”“”…”R?h
+KhKhKhKhKhKhKhKhKhK
+hKhKhKhKhKhKhKhKhKhKhKhKh Kh!Kh$Kh#Kh"Kh%Kh'Kh&Kh*Kh(Kh+Kh)K	h,Kh-Kh.Kh/Kh0Kh1Kh3Kh2Kh5Kh4Kh7Kh6Kh8Kh9Kh:Kh<Kh;Ku?filters”Œ!!"#$%&()*+,-./:;<=>?@[\]^_`{|}~	
+”Œsplit”Œ ”Œlower”ˆ?num_words”M??document_count”K!?char_level”‰?oov_token”Œ<OOV>”Œ
+index_docs”h?hB…”R?KKKKK
+KKKKKK KK!KK"KK#KKK
+K$KK%KKKK&KK(KK'KKKKKK)KKKKKK	KKKKKK+KKKK*KK,KKKK-KK/KK.KKKKK	KKK0KKKKKKKKKKKKKKKKKKKKKK1KKKK2KK4KK3Ku?word_index??hNKhKh)Kh#Kh'Kh0Kh3KhKhK	hK
+hKhKh,Kh.Kh1Kh2Kh9KhKhKhKh Kh!Kh+Kh/Kh4Kh5Kh6Kh7Kh
+KhKhKhK hK!hK"hK#hK$hK%hK&hK'hK(hK)h"K*h$K+h%K,h&K-h(K.h*K/h-K0h8K1h:K2h;K3h<K4u?index_word??KhNKhKh)Kh#Kh'Kh0Kh3KhK	hK
+hKhKhKh,Kh.Kh1Kh2Kh9KhKhKhKh Kh!Kh+Kh/Kh4Kh5Kh6Kh7Kh
+KhKhK hK!hK"hK#hK$hK%hK&hK'hK(hK)hK*h"K+h$K,h%K-h&K.h(K/h*K0h-K1h8K2h:K3h;K4h<uub.
